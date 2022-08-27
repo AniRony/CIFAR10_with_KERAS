@@ -8,4 +8,4 @@ Also fialed many times between airplane and birds like eagles with big wings.
 Accuracy was good enough, though the images were super pixelated and many human eyes can fail recognising the image which DNN actually recognises and learns so good and even sometimes better than humans.
 This shows how powerful tool is DNN.
 It can take this things to very high level accuracy with higher pixel images but at the cost of time and Free 12Gb GPUs on Google Collab.
-You can try it as your self project if the accuracy actually increases if you can inrease the pixel information of those images to approximately(50x50x3).
+You can try it as a self project to see if the accuracy actually increases if you inrease the pixel information of those images to approximately (50x50x3).
