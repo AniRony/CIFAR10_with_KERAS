@@ -1,5 +1,5 @@
 # CIFAR10_with_KERAS
-DNN on CIFAR10 Dataset from Keras API and then Checking Accuracy of the Model with inbuilt test dataset and also from images downloaded from Google to see the efficiency of the model in real life.
+CNN on CIFAR10 Dataset from Keras API and then Checking Accuracy of the Model with inbuilt test dataset and also from images downloaded from Google to see the efficiency of the model in real life.
 Model size is around 28 Mb after 60+60 = 120 epochs so couldn't be uploaded.
 Our main aim was to cross check how the model works with real world present pictures on Google with this very old low (32x32x3) Pixel RGB images.
 So as expected it's not so accurate as we reached 88% accuracy on dataset validation set only.
